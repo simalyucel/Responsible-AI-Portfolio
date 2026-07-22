@@ -122,8 +122,8 @@ characteristics).
 ## Running locally
 
 ```bash
-git clone https://github.com/<your-username>/AI-Trust-Inspector.git
-cd AI-Trust-Inspector
+git clone https://github.com/simalyucel/Responsible-AI-Portfolio.git
+cd Responsible-AI-Portfolio/AI-Trust-Inspector
 pip install -r requirements.txt
 streamlit run app/dashboard.py
 ```
