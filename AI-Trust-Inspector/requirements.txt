@@ -1,0 +1,8 @@
+streamlit
+ucimlrepo
+scikit-learn
+fairlearn
+shap
+pandas
+numpy
+matplotlib
